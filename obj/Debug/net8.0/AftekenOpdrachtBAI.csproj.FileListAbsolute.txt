@@ -1,0 +1,15 @@
+C:\Opdrachten\AftekenOpdachten\bin\Debug\net8.0\AftekenOpdrachtBAI.exe
+C:\Opdrachten\AftekenOpdachten\bin\Debug\net8.0\AftekenOpdrachtBAI.deps.json
+C:\Opdrachten\AftekenOpdachten\bin\Debug\net8.0\AftekenOpdrachtBAI.runtimeconfig.json
+C:\Opdrachten\AftekenOpdachten\bin\Debug\net8.0\AftekenOpdrachtBAI.dll
+C:\Opdrachten\AftekenOpdachten\bin\Debug\net8.0\AftekenOpdrachtBAI.pdb
+C:\Opdrachten\AftekenOpdachten\obj\Debug\net8.0\AftekenOpdrachtBAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Opdrachten\AftekenOpdachten\obj\Debug\net8.0\AftekenOpdrachtBAI.AssemblyInfoInputs.cache
+C:\Opdrachten\AftekenOpdachten\obj\Debug\net8.0\AftekenOpdrachtBAI.AssemblyInfo.cs
+C:\Opdrachten\AftekenOpdachten\obj\Debug\net8.0\AftekenOpdrachtBAI.csproj.CoreCompileInputs.cache
+C:\Opdrachten\AftekenOpdachten\obj\Debug\net8.0\AftekenOpdrachtBAI.sourcelink.json
+C:\Opdrachten\AftekenOpdachten\obj\Debug\net8.0\AftekenOpdrachtBAI.dll
+C:\Opdrachten\AftekenOpdachten\obj\Debug\net8.0\refint\AftekenOpdrachtBAI.dll
+C:\Opdrachten\AftekenOpdachten\obj\Debug\net8.0\AftekenOpdrachtBAI.pdb
+C:\Opdrachten\AftekenOpdachten\obj\Debug\net8.0\AftekenOpdrachtBAI.genruntimeconfig.cache
+C:\Opdrachten\AftekenOpdachten\obj\Debug\net8.0\ref\AftekenOpdrachtBAI.dll

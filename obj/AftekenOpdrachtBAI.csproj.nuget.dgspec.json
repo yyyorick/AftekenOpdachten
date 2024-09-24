@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yoric\\RiderProjects\\AftekenOpdrachtBAI\\AftekenOpdrachtBAI\\AftekenOpdrachtBAI.csproj": {}
+    "C:\\Opdrachten\\AftekenOpdachten\\AftekenOpdrachtBAI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yoric\\RiderProjects\\AftekenOpdrachtBAI\\AftekenOpdrachtBAI\\AftekenOpdrachtBAI.csproj": {
+    "C:\\Opdrachten\\AftekenOpdachten\\AftekenOpdrachtBAI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yoric\\RiderProjects\\AftekenOpdrachtBAI\\AftekenOpdrachtBAI\\AftekenOpdrachtBAI.csproj",
+        "projectUniqueName": "C:\\Opdrachten\\AftekenOpdachten\\AftekenOpdrachtBAI.csproj",
         "projectName": "AftekenOpdrachtBAI",
-        "projectPath": "C:\\Users\\yoric\\RiderProjects\\AftekenOpdrachtBAI\\AftekenOpdrachtBAI\\AftekenOpdrachtBAI.csproj",
+        "projectPath": "C:\\Opdrachten\\AftekenOpdachten\\AftekenOpdrachtBAI.csproj",
         "packagesPath": "C:\\Users\\yoric\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yoric\\RiderProjects\\AftekenOpdrachtBAI\\AftekenOpdrachtBAI\\obj\\",
+        "outputPath": "C:\\Opdrachten\\AftekenOpdachten\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yoric\\AppData\\Roaming\\NuGet\\NuGet.Config",
