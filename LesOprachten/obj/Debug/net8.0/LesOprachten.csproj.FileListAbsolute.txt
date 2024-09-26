@@ -1,0 +1,15 @@
+Y:\Repos\AftekenOpdachtenBAI\LesOprachten\bin\Debug\net8.0\LesOprachten.exe
+Y:\Repos\AftekenOpdachtenBAI\LesOprachten\bin\Debug\net8.0\LesOprachten.deps.json
+Y:\Repos\AftekenOpdachtenBAI\LesOprachten\bin\Debug\net8.0\LesOprachten.runtimeconfig.json
+Y:\Repos\AftekenOpdachtenBAI\LesOprachten\bin\Debug\net8.0\LesOprachten.dll
+Y:\Repos\AftekenOpdachtenBAI\LesOprachten\bin\Debug\net8.0\LesOprachten.pdb
+Y:\Repos\AftekenOpdachtenBAI\LesOprachten\obj\Debug\net8.0\LesOprachten.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Repos\AftekenOpdachtenBAI\LesOprachten\obj\Debug\net8.0\LesOprachten.AssemblyInfoInputs.cache
+Y:\Repos\AftekenOpdachtenBAI\LesOprachten\obj\Debug\net8.0\LesOprachten.AssemblyInfo.cs
+Y:\Repos\AftekenOpdachtenBAI\LesOprachten\obj\Debug\net8.0\LesOprachten.csproj.CoreCompileInputs.cache
+Y:\Repos\AftekenOpdachtenBAI\LesOprachten\obj\Debug\net8.0\LesOprachten.sourcelink.json
+Y:\Repos\AftekenOpdachtenBAI\LesOprachten\obj\Debug\net8.0\LesOprachten.dll
+Y:\Repos\AftekenOpdachtenBAI\LesOprachten\obj\Debug\net8.0\refint\LesOprachten.dll
+Y:\Repos\AftekenOpdachtenBAI\LesOprachten\obj\Debug\net8.0\LesOprachten.pdb
+Y:\Repos\AftekenOpdachtenBAI\LesOprachten\obj\Debug\net8.0\LesOprachten.genruntimeconfig.cache
+Y:\Repos\AftekenOpdachtenBAI\LesOprachten\obj\Debug\net8.0\ref\LesOprachten.dll

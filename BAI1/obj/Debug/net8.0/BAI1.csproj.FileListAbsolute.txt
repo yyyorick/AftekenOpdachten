@@ -1,0 +1,15 @@
+Y:\Repos\AftekenOpdachtenBAI\BAI1\bin\Debug\net8.0\BAI1.exe
+Y:\Repos\AftekenOpdachtenBAI\BAI1\bin\Debug\net8.0\BAI1.deps.json
+Y:\Repos\AftekenOpdachtenBAI\BAI1\bin\Debug\net8.0\BAI1.runtimeconfig.json
+Y:\Repos\AftekenOpdachtenBAI\BAI1\bin\Debug\net8.0\BAI1.dll
+Y:\Repos\AftekenOpdachtenBAI\BAI1\bin\Debug\net8.0\BAI1.pdb
+Y:\Repos\AftekenOpdachtenBAI\BAI1\obj\Debug\net8.0\BAI1.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Repos\AftekenOpdachtenBAI\BAI1\obj\Debug\net8.0\BAI1.AssemblyInfoInputs.cache
+Y:\Repos\AftekenOpdachtenBAI\BAI1\obj\Debug\net8.0\BAI1.AssemblyInfo.cs
+Y:\Repos\AftekenOpdachtenBAI\BAI1\obj\Debug\net8.0\BAI1.csproj.CoreCompileInputs.cache
+Y:\Repos\AftekenOpdachtenBAI\BAI1\obj\Debug\net8.0\BAI1.sourcelink.json
+Y:\Repos\AftekenOpdachtenBAI\BAI1\obj\Debug\net8.0\BAI1.dll
+Y:\Repos\AftekenOpdachtenBAI\BAI1\obj\Debug\net8.0\refint\BAI1.dll
+Y:\Repos\AftekenOpdachtenBAI\BAI1\obj\Debug\net8.0\BAI1.pdb
+Y:\Repos\AftekenOpdachtenBAI\BAI1\obj\Debug\net8.0\BAI1.genruntimeconfig.cache
+Y:\Repos\AftekenOpdachtenBAI\BAI1\obj\Debug\net8.0\ref\BAI1.dll
