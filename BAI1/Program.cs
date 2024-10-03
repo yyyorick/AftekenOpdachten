@@ -5,12 +5,15 @@ using System.Collections.Generic;
 
 public class BAI_Afteken1 {
     public static void Main(string[] args) {
-        var list = new List<int>() { 1, 3, 5, 7, 3, 8, 9, 5 };
-        Opdr1FilterList(list);
-
-        Opdr2bStackFromQueue(Opdr2aQueue50());
+        // var list = new List<int>() { 1, 3, 5, 7, 3, 8, 9, 5 };
+        // Opdr1FilterList(list);
+        //
+        // Opdr2bStackFromQueue(Opdr2aQueue50());
+        //
+        // Opdr3RandomNumbers(10, 15, 6);
         
-        Opdr3RandomNumbers(10, 15, 6);
+        var sul = new Solution();
+        Console.WriteLine(sul.RomanToInt("XIV"));
     }
 
     public static void Opdr1FilterList(List<int> lijst) { // O(n) 
@@ -65,7 +68,26 @@ public class BAI_Afteken1 {
         var stack = new Stack<int>(uniqueNumbersDict.Keys);
         return stack;
     }
-
+    public class Solution {
+        public int RomanToInt(string s) {
+            var romanValues = new Dictionary<char, int> {
+                { 'I', 1 }, { 'V', 5 }, { 'X', 10 },
+                { 'L', 50 }, { 'C', 100 }, { 'D', 500 }, { 'M', 1000 }
+            };
+            int total = 0;
+            int prevValue = 0;
+            for (int i = s.Length - 1; i >= 0; i--) {
+                int currentValue = romanValues[s[i]];
+                if (currentValue < prevValue) {
+                    total -= currentValue;
+                } else {
+                    total += currentValue;
+                }
+                prevValue = currentValue;
+            }
+            return total;
+        }
+    }
 
 }
 
